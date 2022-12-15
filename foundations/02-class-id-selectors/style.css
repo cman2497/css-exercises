@@ -11,3 +11,9 @@
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
+
+#green {
+    background-color: #16e40f;
+    font-size: 24px;
+    font-weight: bold;
+}
